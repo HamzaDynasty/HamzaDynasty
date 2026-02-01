@@ -31,10 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
@@ -47,8 +44,5 @@
 ![GTA V](https://img.shields.io/badge/GTA%20V-569D22?style=for-the-badge&logo=grandtheftauto&logoColor=white)
 
 ![God of War 3](https://img.shields.io/badge/God%20of%20War%203-C0392B?style=for-the-badge&logo=playstation&logoColor=white)
-![RDR 2](https://img.shields.io/badge/Red%20Dead%20Redemption%202-D51111?style=for-the-badge&logo=rockstargames&logoColor=white)
-![Call of Duty](https://img.shields.io/badge/Call%20of%20Duty-white?style=for-the-badge&logo=callofduty&logoColor=black)
 
-![MotoGP 24](https://img.shields.io/badge/MotoGP%2024-black?style=for-the-badge&logo=motogp&logoColor=white)
-![Ride 5](https://img.shields.io/badge/Ride%205-0057B8?style=for-the-badge&logo=yamaha&logoColor=white)
+
