@@ -2,12 +2,9 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,gcp,powershell,bash,vscode,visualstudio,chrome,google,firefox,oracle,edge,opera&perline=13" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,mysql,mongodb,flask,gcp,google,chrome,vscode,visualstudio,powershell,linux,ubuntu,html,css,js,bootstrap,figma,git,github&perline=10" />
   </a>
 </p>
-
-## 🎮 Gaming
-![GTA V](https://img.shields.io/badge/GTA_V-%23212121.svg?style=for-the-badge&logo=grand-theft-auto-v&logoColor=white)
 
 ## 🧩 Research & Innovation
 
