@@ -2,9 +2,16 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,mysql,mongodb,flask,gcp,google,chrome,vscode,visualstudio,powershell,linux,ubuntu,html,css,js,bootstrap,figma,git,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,gcp,google,chrome,vscode,visualstudio,powershell,html,bootstrap,figma,git,github&perline=13" />
   </a>
 </p>
+
+### 🎮 Gaming & Platforms
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)
+![Brawlhalla](https://img.shields.io/badge/Brawlhalla-E1AD01?style=for-the-badge&logo=brawlhalla&logoColor=white)
+
+---
 
 ## 🧩 Research & Innovation
 
