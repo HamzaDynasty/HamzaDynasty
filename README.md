@@ -1,7 +1,7 @@
 ## 🪐 Tech Ecosystem & Gaming
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,oracle,js,html,bootstrap,google,gcp,chrome,firefox,edge,codepen,vscode,visualstudio,powershell,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,oracle,js,html,bootstrap,google,gcp,chrome,firefox,edge,codepen,vscode,visualstudio,powershell,figma,git,github&v=1" />
 </p>
 
 ### 🎮 Platforms
