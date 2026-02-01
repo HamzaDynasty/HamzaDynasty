@@ -41,7 +41,9 @@
 
 ![Brawlhalla](https://img.shields.io/badge/Brawlhalla-E1AD01?style=for-the-badge&logo=brawlhalla&logoColor=white)
 ![GTA V](https://img.shields.io/badge/GTA%20V-569D22?style=for-the-badge&logo=grandtheftauto&logoColor=white)
-![Project IGI](https://img.shields.io/badge/Project%20I.G.I.-353A26?style=for-the-badge&logo=windows&logoColor=white)
+![Tekken 7](https://img.shields.io/badge/Tekken%207-B60000?style=for-the-badge&logo=bandainamco&logoColor=white)
 
-![RDR 2](https://img.shields.io/badge/Red%20Dead%20Redemption%202-D51111?style=for-the-badge&logo=rockstargames&logoColor=white)
-![Call of Duty](https://img.shields.io/badge/Call%20of%20Duty-white?style=for-the-badge&logo=callofduty&logoColor=black)
+
+
+![MotoGP 24](https://img.shields.io/badge/MotoGP%2024-black?style=for-the-badge&logo=motogp&logoColor=white)
+![Ride 5](https://img.shields.io/badge/Ride%205-0057B8?style=for-the-badge&logo=yamaha&logoColor=white)
