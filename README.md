@@ -1,10 +1,10 @@
 ## 🪐 Tech Ecosystem & Gaming
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,gcp,oracle,js,chrome,codepen,firefox,google,edge,vscode,visualstudio,powershell,html5,bootstrap,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,oracle,js,html,bootstrap,gcp,google,chrome,firefox,edge,codepen,vscode,visualstudio,powershell,figma,git,github" />
 </p>
 
 ### 🎮 Platforms
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
+[![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)](https://www.epicgames.com/)
 ![Brawlhalla](https://img.shields.io/badge/Brawlhalla-E1AD01?style=for-the-badge&logo=brawlhalla&logoColor=white)
