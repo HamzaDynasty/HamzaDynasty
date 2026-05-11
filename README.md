@@ -1,36 +1,64 @@
-# Hamza Masood
+<div align="center">
+  <img src="https://i.postimg.cc/v8JSQPwV/Chat-GPT-Image-May-11-2026-09-45-40-PM.png" alt="Hamza Masood Banner" width="100%" />
+</div>
 
-Flutter & Firebase Developer focused on building real-world mobile and web applications.
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Flutter+%26+Firebase+Developer;Building+Real-World+Applications;Mobile+%26+Web+App+Developer;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+# 👋 Hamza Masood
+
+💻 Flutter & Firebase Developer focused on building real-world mobile and web applications.
+
+🚀 Passionate about:
+- Mobile App Development
+- Firebase Integration
+- Full Stack Systems
+- Startup Products
+- UI/UX Improvements
+- Database Management
+
+---
 
 ## 🚀 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo" />
-  <img width="10" />
+<div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo" />
-  <img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart logo" />
-  <img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo" />
-  <img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
-  <img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
-  <img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
-  <img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+
 </div>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -41,6 +69,17 @@ Flutter & Firebase Developer focused on building real-world mobile and web appli
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDynasty&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=HamzaDynasty&theme=tokyonight&hide_border=true" />
+
+</div>
+
 ---
 
 ## 📌 Featured Projects
@@ -59,7 +98,40 @@ Property management platform with admin, agency, and client modules.
 
 ---
 
-## 🌐 Links
+## 🛠️ Currently Working On
 
-- 🔗 LinkedIn: https://linkedin.com/in/hamzamasood1
-- 💻 GitHub: https://github.com/HamzaDynasty
+- 🚀 EkDelivery Platform
+- 📱 Flutter Mobile Applications
+- 🔥 Firebase Backend Integrations
+- 🌐 Full Stack Development
+- 🎨 UI/UX Improvements
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/hamzamasood1" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/HamzaDynasty" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:hamzamasood353@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Building projects.  
+🚀 Learning continuously.  
+💡 Turning ideas into real applications.
+
+</div>
