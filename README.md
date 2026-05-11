@@ -32,6 +32,15 @@ Flutter & Firebase Developer focused on building real-world mobile and web appli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo" />
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamzaDynasty&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDynasty&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 ---
 
 ## 📌 Featured Projects
