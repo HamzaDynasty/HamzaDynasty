@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Flutter+%26+Firebase+Developer;Building+Real-World+Applications;Mobile+%26+Web+App+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=900&lines=Flutter+%26+Firebase+Developer;Building+Real-World+Applications;Mobile+%26+Web+App+Developer;Always+Learning+New+Technologies" />
 
 </div>
 
