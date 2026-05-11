@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Flutter+%26+Firebase+Developer;Building+Real-World+Applications;Mobile+%26+Web+App+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Flutter+%26+Firebase+Developer;Building+Real-World+Applications;Mobile+%26+Web+App+Developer;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -64,9 +64,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamzaDynasty&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=HamzaDynasty&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDynasty&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDynasty&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 
 </div>
 
