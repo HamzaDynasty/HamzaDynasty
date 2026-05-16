@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/v8JSQPwV/Chat-GPT-Image-May-11-2026-09-45-40-PM.png" alt="Hamza Masood Banner" width="100%" />
+  <img src="https://i.postimg.cc/hPkRqb5t/Chat-GPT-Image-May-16-2026-09-07-28-PM.png" alt="Hamza Masood Banner" width="100%" />
 </div>
 
 <br>
