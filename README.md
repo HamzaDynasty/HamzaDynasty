@@ -4,11 +4,11 @@
 
 <br>
 
-<div align="center">
+<h1 align="center">{ Hamza Masood }</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=9D00FF&center=true&vCenter=true&width=1000&lines=Flutter+%26+Firebase+Developer;Building+Real-World+Applications;Full+Stack+Mobile+Developer;Creating+Startup+Focused+Solutions" />
-
-</div>
+<p align="center">
+Flutter & Firebase Developer
+</p>
 
 ---
 
@@ -17,6 +17,7 @@
 💻 Flutter & Firebase Developer focused on building real-world mobile and web applications.
 
 🚀 Passionate about:
+
 - Mobile App Development
 - Firebase Integration
 - Full Stack Systems
@@ -57,9 +58,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 
 </div>
-
-
-
 
 ---
 
@@ -104,6 +102,18 @@ Property management platform with admin, agency, and client modules.
 <a href="mailto:hamzamasood353@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HamzaDynasty&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDynasty&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
