@@ -4,11 +4,7 @@
 
 <br>
 
-<h1 align="center">{ Hamza Masood }</h1>
-
-<p align="center">
-Flutter & Firebase Developer
-</p>
+<h1 align="left">{ Hamza Masood }</h1>
 
 ---
 
