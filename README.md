@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="left">{ Hamza Masood }</h1>
+<h1 align="left">{Hamza Masood}</h1>
 
 💻 Flutter & Firebase Developer building scalable mobile and web applications.
 
@@ -54,7 +54,7 @@ Property management platform with admin, agency, and client modules.
 
 ---
 
-## 🧠 Vibe Coding Philosophy
+## 💭 Developer Mindset
 
 > “Good apps are not built by writing more code.  
 > They are built by solving real problems with smooth experiences.”
@@ -65,19 +65,12 @@ Property management platform with admin, agency, and client modules.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HamzaDynasty/HamzaDynasty/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
-
 ---
 
-## 💭 Developer Mindset
 
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
 
 ---
 
@@ -90,32 +83,21 @@ Property management platform with admin, agency, and client modules.
 
 ---
 
-## 🚀 Featured Repository
-
-<div align="center">
-
-<a href="https://github.com/HamzaDynasty/EkDelivery">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaDynasty&repo=EkDelivery&theme=github_dark" />
-</a>
-
-</div>
-
 ---
 
 ## 🏷️ Core Technologies
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
-
 ---
 
 ## 🌐 Connect With Me
