@@ -6,52 +6,47 @@
 
 <h1 align="left">{ Hamza Masood }</h1>
 
----
-
-# 👋 Hamza Masood
-
-💻 Flutter & Firebase Developer focused on building real-world mobile and web applications.
-
-🚀 Passionate about:
-
-- Mobile App Development
-- Firebase Integration
-- Full Stack Systems
-- Startup Products
-- UI/UX Improvements
-- Database Management
+💻 Flutter & Firebase Developer building scalable mobile and web applications.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Developer Journey
+
+I build scalable mobile and web applications focused on performance, clean UI, and real-world usability. My primary focus is Flutter and Firebase development, where I create responsive applications with modern architecture, authentication systems, real-time databases, and optimized user experiences.
+
+I enjoy transforming startup ideas into functional products while continuously improving my skills in backend systems, mobile engineering, and UI/UX design.
+
+---
+
+## 🛠️ Technologies I Use
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="dart logo" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
 <img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
 
 </div>
 
@@ -70,6 +65,16 @@ Desktop-based restaurant management application developed in C++.
 
 ### 🏠 Real Estate Management System
 Property management platform with admin, agency, and client modules.
+
+---
+
+## 🔥 Currently Exploring
+
+- Advanced Flutter Architecture
+- Firebase Scaling & Optimization
+- Startup Product Development
+- Clean UI/UX Systems
+- Full Stack Application Development
 
 ---
 
@@ -117,8 +122,8 @@ Property management platform with admin, agency, and client modules.
 
 <div align="center">
 
-⭐ Building projects.  
-🚀 Learning continuously.  
-💡 Turning ideas into real applications.
+⭐ Building projects  
+🚀 Learning continuously  
+💡 Turning ideas into real applications
 
 </div>
