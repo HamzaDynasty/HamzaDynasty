@@ -88,6 +88,43 @@ Property management platform with admin, agency, and client modules.
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HamzaDynasty/HamzaDynasty/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=HamzaDynasty&label=Profile%20Views&color=0e75b6&style=flat" />
+
+## 💭 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaDynasty&theme=github-dark&hide_border=true" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer"/>
+
+<a href="https://github.com/HamzaDynasty/EkDelivery">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaDynasty&repo=EkDelivery&theme=github_dark" />
+</a>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_ID)](...)
+
+## 📚 Currently Learning
+
+- Advanced Flutter Architecture
+- Firebase Optimization
+- Scalable Backend Systems
+- UI/UX Design Systems
+
+- 
+
 ## 🌐 Connect With Me
 
 <div align="center">
