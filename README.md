@@ -22,31 +22,7 @@ I enjoy transforming startup ideas into functional products while continuously i
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="dart logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
+<img src="https://skillicons.dev/icons?i=flutter,firebase,dart,python,cpp,mysql,javascript,git,github,vscode" />
 
 </div>
 
@@ -68,17 +44,7 @@ Property management platform with admin, agency, and client modules.
 
 ---
 
-## 🔥 Currently Exploring
-
-- Advanced Flutter Architecture
-- Firebase Scaling & Optimization
-- Startup Product Development
-- Clean UI/UX Systems
-- Full Stack Application Development
-
----
-
-## 🛠️ Currently Working On
+## 🔥 Currently Working On
 
 - 🚀 EkDelivery Platform
 - 📱 Flutter Mobile Applications
@@ -88,33 +54,32 @@ Property management platform with admin, agency, and client modules.
 
 ---
 
+## 🧠 Vibe Coding Philosophy
+
+> “Good apps are not built by writing more code.  
+> They are built by solving real problems with smooth experiences.”
+
+---
+
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HamzaDynasty/HamzaDynasty/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=HamzaDynasty&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://raw.githubusercontent.com/HamzaDynasty/HamzaDynasty/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
-## 💭 Dev Quote
+</div>
+
+---
+
+## 💭 Developer Mindset
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 📈 Contribution Graph
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaDynasty&theme=github-dark&hide_border=true" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer"/>
-
-<a href="https://github.com/HamzaDynasty/EkDelivery">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaDynasty&repo=EkDelivery&theme=github_dark" />
-</a>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_ID)](...)
+---
 
 ## 📚 Currently Learning
 
@@ -123,7 +88,35 @@ Property management platform with admin, agency, and client modules.
 - Scalable Backend Systems
 - UI/UX Design Systems
 
-- 
+---
+
+## 🚀 Featured Repository
+
+<div align="center">
+
+<a href="https://github.com/HamzaDynasty/EkDelivery">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaDynasty&repo=EkDelivery&theme=github_dark" />
+</a>
+
+</div>
+
+---
+
+## 🏷️ Core Technologies
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -159,9 +152,11 @@ Property management platform with admin, agency, and client modules.
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer"/>
+
 <div align="center">
 
-⭐ Building projects  
+⭐ Building products  
 🚀 Learning continuously  
 💡 Turning ideas into real applications
 
