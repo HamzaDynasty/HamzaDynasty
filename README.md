@@ -368,17 +368,21 @@ I try to build applications with a focus on:
 
 ---
 
-# 🤝 Contributions & Collaboration
+# ✨ Hall of Contributors
 
-I'm always interested in learning from other developers, improving existing projects, and working on practical software ideas.
+Thanks to everyone who contributes, shares feedback, reports issues, or helps improve my projects. 🚀
 
-If you find something useful in this repository, feel free to:
+I'm always open to learning from other developers and building better software together.
 
-* ⭐ Star the repository
-* 🐛 Report an issue
-* 💡 Suggest an improvement
-* 🔧 Submit a pull request
-* 💬 Share feedback
+If you'd like to contribute:
+
+- 💡 Suggest an idea
+- 🐛 Report an issue
+- 🔧 Submit a pull request
+- 📚 Share useful resources
+- 💬 Give feedback
+
+Every contribution, big or small, is appreciated. ❤️
 
 ---
 
@@ -398,13 +402,35 @@ If you find something useful in this repository, feel free to:
 
 ---
 
-# ⭐ Support
+# 📢 Spread the Word
 
 If you find my projects useful or interesting, consider giving them a ⭐.
 
-It helps support the work and encourages me to keep building and sharing.
+It helps others discover the projects and motivates me to keep building, learning, and sharing.
+
+<p align="center">
+  <b>Found something useful? Give it a ⭐ and share it with other developers! 🌟</b>
+</p>
 
 ---
+
+# 💬 Have an Idea?
+
+Have a suggestion for improving one of my projects?
+
+Feel free to open an issue or reach out through my social links.
+
+I'd love to hear your ideas and feedback. 🚀
+
+<p align="center">
+  <b>Build together. Learn together. Improve together. ❤️</b>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
 
 # ✨ Final Note
 
