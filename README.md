@@ -1,44 +1,16 @@
-<div align="center">
-  <img src="https://i.postimg.cc/hPkRqb5t/Chat-GPT-Image-May-16-2026-09-07-28-PM.png" alt="Hamza Masood Banner" width="100%" />
-</div>
+# 👨‍💻 Hamza Masood | Software Developer
 
-<br>
-
-<h1 align="left">👋 Hamza Masood</h1>
-
-<h3 align="left">
-  🚀 Flutter Developer · Firebase Engineer · Mobile & Web Applications
-</h3>
-
-<p align="left">
-  I build production-focused applications with Flutter and Firebase, with a focus on clean architecture, reliable backend systems, responsive interfaces, and practical user experiences.
-</p>
-
-<p align="left">
-  I enjoy turning real-world problems into functional products and continuously improving the way applications are designed, built, and maintained.
-</p>
-
-<p align="left">
-  <a href="https://github.com/HamzaDynasty">
-    <img src="https://img.shields.io/badge/GitHub-HamzaDynasty-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/hamzamasood1">
-    <img src="https://img.shields.io/badge/LinkedIn-Hamza%20Masood-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hamzamasood353@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+> Building practical software around real problems, real users, and real-world workflows.
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
 I'm a software developer focused on **Flutter application development and Firebase-backed systems**.
 
-My work covers different parts of the application lifecycle, including UI development, application architecture, authentication, database design, cloud services, notifications, APIs, deployment, and maintenance.
+My work covers different parts of the application lifecycle, from UI development and application architecture to authentication, database design, cloud services, APIs, notifications, deployment, and maintenance.
 
-I prefer building software around **real problems and real users**, rather than creating projects only to demonstrate a technology.
+I enjoy building applications that solve practical problems rather than creating projects only to demonstrate a technology.
 
 ### 🎯 Engineering Focus
 
@@ -52,127 +24,145 @@ I prefer building software around **real problems and real users**, rather than 
 * 📐 Responsive UI development
 * 🏗️ Application architecture
 * 🔔 Push notifications and FCM
-* ☁️ Cloud Storage integration
-* 📍 Google Maps and location-based features
+* ☁️ Cloud Storage
+* 📍 Google Maps and location services
 * 🌿 Git and GitHub workflows
 * 🚀 Production deployment and maintenance
 
 ---
 
-## 🚀 Featured Work
+# 🚀 Projects
 
-### 🍔 EkDelivery
+My projects are organized into three tiers based on **technical complexity, architecture, and development experience**.
 
-**Food Delivery Platform**
+|      Tier     | Developer Profile                                                                                                                                     |
+| :-----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🟢 **Tier 1** | Projects focused on programming fundamentals, UI development, application logic, and basic data handling.                                             |
+| 🟡 **Tier 2** | Projects involving multiple screens, databases, APIs, authentication, role-based functionality, and structured application architecture.              |
+| 🔴 **Tier 3** | Advanced projects involving production-style architecture, cloud services, real-time systems, multiple user roles, complex workflows, and deployment. |
 
-A complete food delivery ecosystem built with Flutter and Firebase, designed around customers, restaurants, riders, and operational management.
+---
+
+# 🟢 Tier 1 | Foundation Projects
+
+Projects focused on programming fundamentals, application logic, UI development, and basic workflows.
+
+| Project                              | Description                                                                                                  | Technologies |
+| :----------------------------------- | :----------------------------------------------------------------------------------------------------------- | :----------- |
+| 🍽️ **Restaurant Management System** | Desktop application for managing restaurant operations, menus, and orders.                                   | `C++`        |
+| 🧩 **Programming Projects**          | Small applications and exercises created to strengthen programming fundamentals and problem-solving skills.  | `C++`        |
+| 🎨 **UI Practice Projects**          | Interface-focused projects created to improve layouts, responsive design, and application UI implementation. | `Flutter`    |
+
+### 🎯 Skills Practiced
+
+* 🧠 Programming fundamentals
+* 💡 Problem solving
+* ⚙️ Application logic
+* 🎨 UI implementation
+* 🗄️ Data handling
+* 👤 User interaction
+* 🧩 Basic software structure
+
+---
+
+# 🟡 Tier 2 | Intermediate Projects
+
+Projects involving structured application architecture, multiple workflows, databases, authentication, and role-based functionality.
+
+| Project                                    | Description                                                                                                                     | Technologies     |
+| :----------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ | :--------------- |
+| 🏫 **Smart Campus Portal**                 | Web-based campus management system designed to organize student information, academic workflows, and administrative operations. | `Web` `Database` |
+| 🏠 **Real Estate Management System**       | Property management platform designed around administrators, agencies, and clients.                                             | `Web` `Database` |
+| 🍽️ **Restaurant Management Applications** | Applications focused on restaurant workflows, data management, orders, and operational processes.                               | `C++` `Database` |
+
+### 🎯 Skills Practiced
+
+* 👥 Role-based access
+* 📊 Dashboard architecture
+* 🗄️ Database integration
+* 🎓 Student management
+* 🏠 Property management
+* 👤 Client management
+* 🏢 Agency workflows
+* 📱 Responsive interfaces
+* ⚙️ Administrative workflows
+
+---
+
+# 🔴 Tier 3 | Advanced & Production Projects
+
+Projects involving real-world workflows, cloud infrastructure, multiple user roles, real-time communication, notifications, location services, and production deployment.
+
+## 🍔 EkDelivery
+
+### Food Delivery Platform
+
+A complete food delivery ecosystem built with **Flutter and Firebase**, designed around customers, restaurants, riders, and operational management.
 
 The platform focuses on real-world ordering workflows, restaurant operations, rider management, notifications, location services, and administrative control.
 
-**🛠️ Technology**
+### 🛠️ Technology
 
 `Flutter` `Dart` `Firebase` `Firestore` `Cloud Storage` `FCM` `Google Maps`
 
-**⚙️ Engineering Areas**
+### ⚙️ Engineering Areas
 
 * 👥 Multi-role application architecture
 * 🛒 Customer ordering workflow
 * 🔄 Real-time order lifecycle
-* 🔐 Firebase authentication
+* 🔐 Firebase Authentication
 * 🗄️ Firestore data modelling
 * 🔔 Push notifications
 * 📍 Location and map integration
 * 🍽️ Restaurant and menu management
 * 🛵 Rider workflow
 * 🖥️ Administrative dashboard
+* ☁️ Cloud Storage
 * 🚀 Production deployment
 
-<p>
-  <a href="https://github.com/HamzaDynasty">
-    <strong>🔗 View my GitHub projects →</strong>
-  </a>
-</p>
+### 🧠 What This Project Demonstrates
+
+* Designing applications around real users
+* Managing multiple application roles
+* Building cloud-backed mobile applications
+* Designing real-time workflows
+* Connecting mobile applications with backend services
+* Handling production data
+* Integrating location-based functionality
+* Managing notifications and user communication
+* Deploying and maintaining a live application
 
 ---
 
-### 🏫 Smart Campus Portal
-
-**Web-Based Campus Management System**
-
-A campus management platform designed to organize student information, academic workflows, and administrative operations through dedicated dashboards.
-
-**⚙️ Engineering Areas**
-
-* 👥 Role-based access
-* 📊 Dashboard architecture
-* 🎓 Student management
-* 🗄️ Database integration
-* 📱 Responsive interfaces
-* ⚙️ Administrative workflows
-
----
-
-### 🍽️ Restaurant Management System
-
-**Desktop Application**
-
-A C++ based restaurant management application designed to handle common restaurant operations through a desktop interface.
-
-**⚙️ Engineering Areas**
-
-* 🧠 Application logic
-* 🗄️ Data management
-* 📋 Menu operations
-* 🧾 Order processing
-* 🖥️ Desktop application workflows
-
----
-
-### 🏠 Real Estate Management System
-
-**Property Management Platform**
-
-A property management system built around multiple user roles, including administrators, agencies, and clients.
-
-**⚙️ Engineering Areas**
-
-* 👥 Role-based workflows
-* 🏠 Property management
-* 👤 Client management
-* 🏢 Agency operations
-* 🛠️ Administrative controls
-
----
-
-## 🧰 Technology Stack
+# 🧰 Technology Stack
 
 ### 📱 Mobile & Application Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+`Flutter` `Dart` `React Native`
 
 ### ☁️ Backend & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
-</p>
+`Firebase` `Firestore` `Cloud Storage` `Firebase Authentication` `FCM`
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,python,cpp,javascript" />
-</p>
+`Dart` `C++` `JavaScript` `HTML` `CSS`
+
+### 🗄️ Databases
+
+`Cloud Firestore` `Firebase`
+
+### 📍 APIs & Services
+
+`Google Maps` `REST APIs` `Firebase APIs`
 
 ### 🛠️ Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+`Git` `GitHub` `VS Code` `Android Studio` `Figma`
 
 ---
 
-## 🏗️ How I Build
+# 🏗️ How I Build
 
 I focus on building applications that are:
 
@@ -182,14 +172,33 @@ I focus on building applications that are:
 * 🔐 Secure by design
 * 👥 Practical for real users
 * 🏗️ Structured around clear responsibilities
+* 🧪 Testable and easier to maintain
 
-My approach is simple:
+### 🔄 Development Process
 
-**Understand the problem → Design the solution → Build the system → Test it → Deploy it → Improve it**
+```text
+Understand the Problem
+        ↓
+Define Requirements
+        ↓
+Design the Solution
+        ↓
+Design the UI / UX
+        ↓
+Build the Application
+        ↓
+Connect Backend Services
+        ↓
+Test & Debug
+        ↓
+Deploy
+        ↓
+Monitor & Improve
+```
 
 ---
 
-## 🔥 Currently Working On
+# 🔥 Currently Working On
 
 * 🚀 Improving the EkDelivery platform
 * 📱 Building Flutter mobile applications
@@ -203,56 +212,139 @@ My approach is simple:
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-* 🏗️ Advanced Flutter architecture
-* 🔥 Firebase optimization
-* ☁️ Scalable backend systems
-* 🎨 UI/UX and design systems
-* ⚡ Application performance optimization
-* 🔐 Better application security practices
-* 🧪 Testing and production-quality development
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaDynasty&theme=github-dark&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaDynasty&theme=github_dark" />
-
-</div>
+| Area                   | Focus                                       |
+| :--------------------- | :------------------------------------------ |
+| 🏗️ **Architecture**   | Scalable Flutter application architecture   |
+| 🔥 **Firebase**        | Database design, security, and optimization |
+| ☁️ **Backend Systems** | Scalable cloud-backed applications          |
+| 🎨 **UI/UX**           | Better interfaces and design systems        |
+| ⚡ **Performance**      | Application performance and optimization    |
+| 🔐 **Security**        | Authentication and application security     |
+| 🧪 **Testing**         | Testing and production-quality development  |
+| 🚀 **Deployment**      | Production deployment and maintenance       |
 
 ---
 
-## 🌐 Let's Connect
+# 📊 Development Experience
 
-<p align="left">
-  <a href="https://linkedin.com/in/hamzamasood1">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/HamzaDynasty">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:hamzamasood353@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+| Area                      | Focus                               |
+| :------------------------ | :---------------------------------- |
+| 📱 **Mobile Development** | Flutter applications                |
+| 🔥 **Backend**            | Firebase-based systems              |
+| 🗄️ **Database**          | Firestore and data modelling        |
+| 🔐 **Authentication**     | Firebase Authentication             |
+| 🔔 **Notifications**      | FCM and push notifications          |
+| 📍 **Location**           | Google Maps and location services   |
+| 🎨 **UI Development**     | Responsive application interfaces   |
+| 🏗️ **Architecture**      | Structured application architecture |
+| 🌿 **Version Control**    | Git and GitHub                      |
+| 🚀 **Deployment**         | Production application deployment   |
 
 ---
 
-<div align="center">
+# 📖 Development Resources
 
-### 🚀 Build. Learn. Ship. Improve.
+### 📱 Flutter
 
-<p>
-  <strong>Turning ideas into software that solves real problems.</strong>
-</p>
+* [Flutter Documentation](https://docs.flutter.dev/)
+* [Flutter Cookbook](https://docs.flutter.dev/cookbook)
+* [Dart Documentation](https://dart.dev/guides)
 
-</div>
+### 🔥 Firebase
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer"/>
+* [Firebase Documentation](https://firebase.google.com/docs)
+* [Cloud Firestore Documentation](https://firebase.google.com/docs/firestore)
+* [Firebase Authentication](https://firebase.google.com/docs/auth)
+* [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging)
+
+### 🌿 Git & GitHub
+
+* [Git Documentation](https://git-scm.com/doc)
+* [GitHub Documentation](https://docs.github.com/)
+
+### 🎨 Design
+
+* [Figma](https://www.figma.com/)
+* [Material Design](https://m3.material.io/)
+
+---
+
+# 🧠 Areas I Like Working On
+
+```text
+Mobile Applications
+       ↓
+Application Architecture
+       ↓
+Backend Integration
+       ↓
+Database Design
+       ↓
+Real-Time Systems
+       ↓
+Notifications
+       ↓
+Location Services
+       ↓
+Production Deployment
+```
+
+---
+
+# 🌱 Development Philosophy
+
+I believe good software is not only about making something work.
+
+It's about understanding:
+
+**Who needs it → What problem it solves → How it should work → How it can grow**
+
+I try to build applications with a focus on:
+
+* 👥 Real users
+* 🎯 Real problems
+* 🏗️ Clear architecture
+* 🧩 Useful features
+* 🛠️ Maintainable code
+* 📈 Continuous improvement
+
+---
+
+# 🤝 Contributions & Collaboration
+
+I'm always interested in learning from other developers, improving existing projects, and working on practical software ideas.
+
+If you find something useful in this repository, feel free to:
+
+* ⭐ Star the repository
+* 🐛 Report an issue
+* 💡 Suggest an improvement
+* 🔧 Submit a pull request
+* 💬 Share feedback
+
+---
+
+# 🌐 Let's Connect
+
+* 💼 **LinkedIn:** `Add your LinkedIn URL`
+* 💻 **GitHub:** `Add your GitHub URL`
+* 🌐 **Portfolio:** `Add your portfolio URL`
+* 📧 **Email:** `Add your professional email`
+
+---
+
+# 📊 GitHub Activity
+
+<!-- Add GitHub statistics here -->
+
+---
+
+# ✨ Final Note
+
+Every project starts with a problem worth solving.
+
+Every problem is an opportunity to learn something new.
+
+**Build. Learn. Ship. Improve. 🚀**
