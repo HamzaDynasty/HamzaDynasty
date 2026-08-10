@@ -6,121 +6,203 @@
 
 <h1 align="left">Hamza Masood</h1>
 
-🚀 Software Engineer | Flutter & Firebase Specialist | Architecting Scalable Solutions
+<p align="left">
+  <strong>Flutter Developer · Firebase Engineer · Mobile & Web Applications</strong>
+</p>
+
+<p align="left">
+  I build production-focused applications with Flutter and Firebase, with an emphasis on clean architecture, reliable backend systems, responsive interfaces, and practical user experiences.
+</p>
+
+<p align="left">
+  Currently focused on building and shipping real-world products, improving application architecture, and turning ideas into maintainable software.
+</p>
+
+<p align="left">
+  <a href="https://github.com/HamzaDynasty">
+    <img src="https://img.shields.io/badge/GitHub-HamzaDynasty-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/hamzamasood1">
+    <img src="https://img.shields.io/badge/LinkedIn-Hamza%20Masood-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hamzamasood353@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Professional Summary
+## About
 
-I am a results-driven Software Engineer specializing in building robust, cross-platform mobile and web applications. With deep expertise in the Flutter ecosystem and Firebase backend integration, I focus on engineering high-performance systems characterized by clean architecture, real-time data synchronization, and intuitive user experiences. 
+I'm a software developer focused on Flutter application development and Firebase-backed systems.
 
-From conceptualizing scalable startup infrastructures to deploying production-ready applications, I am committed to writing maintainable, efficient code and solving complex technical challenges to deliver real-world value.
+My work covers the complete application lifecycle, from UI implementation and application architecture to authentication, database design, cloud services, notifications, deployment, and ongoing improvements.
 
----
+I enjoy working on products where software has to solve an actual problem rather than simply demonstrate a technology.
 
-## 🛠️ Technical Arsenal
+### Engineering Focus
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,firebase,dart,python,cpp,mysql,javascript,git,github,vscode" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-### 🍔 EkDelivery
-A production-grade food delivery ecosystem built with Flutter and Firebase, featuring real-time state management, secure authentication, and a comprehensive restaurant administration dashboard.
-
-### 🏫 Smart Campus Portal
-A scalable web-based enterprise resource planning (ERP) module for campus management, implementing role-based access control (RBAC) and streamlined student data pipelines.
-
-### 🍽️ Restaurant Management System
-A high-performance desktop application engineered in C++ for efficient inventory tracking, automated order processing, and secure transactional management.
-
-### 🏠 Real Estate Management System
-A comprehensive property management platform featuring specialized modules for administrators, agencies, and clients, backed by a highly optimized database architecture.
+* Flutter application development
+* Firebase and cloud-backed applications
+* Firestore database design
+* Authentication and authorization
+* REST API integration
+* Real-time application features
+* State management
+* Responsive UI development
+* Application architecture
+* Push notifications and FCM
+* Cloud Storage integration
+* Google Maps and location-based features
+* Git and collaborative development
+* Production deployment and maintenance
 
 ---
 
-## 🔥 Current Focus
+## Featured Work
 
-- 🚀 Architecting the EkDelivery Platform for production scale
-- 📱 Developing cross-platform mobile solutions with Flutter
-- 🔥 Optimizing Firebase backend integrations and security rules
-- 🌐 Implementing full-stack features and RESTful API integrations
-- 🎨 Elevating UI/UX through modern, responsive design systems
+### EkDelivery
 
----
+**Food Delivery Platform**
 
-## 💭 Developer Philosophy
+A complete food delivery ecosystem built around Flutter and Firebase.
 
-> “Exceptional software is not just about writing more code.  
-> It is about architecting scalable solutions that deliver seamless, real-world value.”
+The platform includes customer ordering, restaurant operations, rider workflows, order management, notifications, location services, and an administrative system.
 
----
+**Technology**
 
-## 🐍 Contribution Graph
+`Flutter` `Dart` `Firebase` `Firestore` `Cloud Storage` `FCM` `Google Maps`
 
-<div align="center">
+**Engineering Areas**
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+* Multi-role application architecture
+* Real-time order workflows
+* Firebase authentication
+* Firestore data modelling
+* Push notifications
+* Location and map integration
+* Restaurant and menu management
+* Order lifecycle management
+* Rider workflow
+* Administrative dashboard
+* Production deployment
 
-</div>
----
-
-
-
----
-
-## 📚 Continuous Integration (Learning)
-
-- Advanced Flutter Architecture (Clean Architecture, Provider/Riverpod)
-- Firebase Optimization & NoSQL Data Modeling
-- Scalable Backend Systems & Microservices
-- UI/UX Design Systems & Accessibility Standards
+<p>
+  <a href="https://github.com/HamzaDynasty">
+    View projects on GitHub →
+  </a>
+</p>
 
 ---
 
----
+### Smart Campus Portal
 
-## 🏷️ Core Technologies
+**Web Based Campus Management System**
 
-<div align="center">
+A role-based campus management platform designed to organize student information, academic workflows, and administrative operations through dedicated dashboards.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+**Engineering Areas**
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
-</div>
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/hamzamasood1" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/HamzaDynasty" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:hamzamasood353@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+* Role-based access
+* Dashboard architecture
+* Student management
+* Database integration
+* Responsive interfaces
+* Administrative workflows
 
 ---
 
-## 📊 GitHub Analytics
+### Restaurant Management System
+
+**Desktop Application**
+
+A C++ based restaurant management application focused on handling common restaurant operations through a desktop interface.
+
+**Engineering Areas**
+
+* Application logic
+* Data management
+* Menu operations
+* Order processing
+* Desktop UI workflows
+
+---
+
+### Real Estate Management System
+
+**Property Management Platform**
+
+A property management system designed around multiple user roles, including administrators, agencies, and clients.
+
+**Engineering Areas**
+
+* Role-based workflows
+* Property management
+* Client management
+* Agency operations
+* Administrative controls
+
+---
+
+## Technology Stack
+
+### Mobile & Application Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### Backend & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
+</p>
+
+### Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,python,cpp,javascript" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## Development Approach
+
+I focus on building applications that are:
+
+* Maintainable
+* Responsive
+* Easy to extend
+* Secure by design
+* Practical for real users
+* Structured around clear application responsibilities
+
+I prefer solving the underlying problem first, then choosing the technology and architecture that fit it.
+
+---
+
+## Current Focus
+
+I'm currently working on:
+
+* Building and improving Flutter applications
+* Designing Firebase backed application architectures
+* Improving application performance
+* Developing reusable UI components
+* Improving Firestore data structures
+* Building real-time application workflows
+* Exploring scalable backend patterns
+* Improving UI and UX implementation
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
@@ -134,12 +216,26 @@ A comprehensive property management platform featuring specialized modules for a
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer"/>
+## Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/hamzamasood1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/HamzaDynasty">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:hamzamasood353@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <div align="center">
 
-⭐ Architecting scalable products  
-🚀 Continuously mastering new paradigms  
-💡 Transforming complex problems into elegant solutions
+<strong>Building software. Solving problems. Shipping products.</strong>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer"/>
