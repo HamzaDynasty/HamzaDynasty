@@ -1,4 +1,10 @@
-# 👨‍💻 Hamza Masood | Software Developer
+<div align="center">
+  <img src="https://i.postimg.cc/hPkRqb5t/Chat-GPT-Image-May-16-2026-09-07-28-PM.png" alt="Hamza Masood Banner" width="100%" />
+</div>
+
+<br>
+
+<h1 align="left">{Hamza Masood}</h1>
 
 > Building practical software around real problems, real users, and real-world workflows.
 
