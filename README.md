@@ -1,12 +1,32 @@
-<div align="center">
-  <img src="https://i.postimg.cc/hPkRqb5t/Chat-GPT-Image-May-16-2026-09-07-28-PM.png" alt="Hamza Masood Banner" width="100%" />
-</div>
+# 👨‍💻 Hamza Masood
 
-<br>
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+</p>
 
-<h1 align="left">{Hamza Masood}</h1>
+<p align="center">
+  <b>Software Developer | Flutter | Firebase | Mobile Applications</b>
+</p>
 
-> Building practical software around real problems, real users, and real-world workflows.
+<p align="center">
+  Building practical software around real problems, real users, and real-world workflows.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamzamasood1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/HamzaDynasty">
+    <img src="https://img.shields.io/badge/Linktree-Connect-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+  <a href="https://github.com/HamzaDynasty">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HamzaDynasty&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -41,11 +61,11 @@ I enjoy building applications that solve practical problems rather than creating
 
 My projects are organized into three tiers based on **technical complexity, architecture, and development experience**.
 
-|      Tier     | Developer Profile                                                                                                                                     |
-| :-----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🟢 **Tier 1** | Projects focused on programming fundamentals, UI development, application logic, and basic data handling.                                             |
-| 🟡 **Tier 2** | Projects involving multiple screens, databases, APIs, authentication, role-based functionality, and structured application architecture.              |
-| 🔴 **Tier 3** | Advanced projects involving production-style architecture, cloud services, real-time systems, multiple user roles, complex workflows, and deployment. |
+|      Tier     | Developer Profile                                                                                                                               |
+| :-----------: | :---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🟢 **Tier 1** | Projects focused on programming fundamentals, UI development, application logic, and basic data handling.                                       |
+| 🟡 **Tier 2** | Projects involving databases, APIs, authentication, role-based functionality, and structured application architecture.                          |
+| 🔴 **Tier 3** | Advanced projects involving production architecture, cloud services, real-time systems, multiple user roles, complex workflows, and deployment. |
 
 ---
 
@@ -109,7 +129,13 @@ The platform focuses on real-world ordering workflows, restaurant operations, ri
 
 ### 🛠️ Technology
 
-`Flutter` `Dart` `Firebase` `Firestore` `Cloud Storage` `FCM` `Google Maps`
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+Additional services:
+
+`Firestore` `Cloud Storage` `FCM` `Google Maps`
 
 ### ⚙️ Engineering Areas
 
@@ -142,29 +168,43 @@ The platform focuses on real-world ordering workflows, restaurant operations, ri
 
 # 🧰 Technology Stack
 
-### 📱 Mobile & Application Development
+## 📱 Mobile & Application Development
 
-`Flutter` `Dart` `React Native`
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react" />
+</p>
 
-### ☁️ Backend & Cloud
+## ☁️ Backend & Cloud
 
-`Firebase` `Firestore` `Cloud Storage` `Firebase Authentication` `FCM`
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
-`Dart` `C++` `JavaScript` `HTML` `CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,cpp,js,html,css" />
+</p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
-`Cloud Firestore` `Firebase`
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
 
-### 📍 APIs & Services
+## 🛠️ Development Tools
 
-`Google Maps` `REST APIs` `Firebase APIs`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+</p>
 
-### 🛠️ Development Tools
+## 📍 APIs & Services
 
-`Git` `GitHub` `VS Code` `Android Studio` `Figma`
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ---
 
@@ -247,6 +287,35 @@ Monitor & Improve
 | 🏗️ **Architecture**      | Structured application architecture |
 | 🌿 **Version Control**    | Git and GitHub                      |
 | 🚀 **Deployment**         | Production application deployment   |
+
+---
+
+# 📈 Development Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaDynasty&theme=github-compact&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaDynasty&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaDynasty&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDynasty&layout=compact&hide_border=true&langs_count=8" height="180" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HamzaDynasty&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
+</p>
 
 ---
 
@@ -334,16 +403,25 @@ If you find something useful in this repository, feel free to:
 
 # 🌐 Let's Connect
 
-* 💼 **LinkedIn:** `Add your LinkedIn URL`
-* 💻 **GitHub:** `Add your GitHub URL`
-* 🌐 **Portfolio:** `Add your portfolio URL`
-* 📧 **Email:** `Add your professional email`
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamzamasood1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/HamzaDynasty">
+    <img src="https://img.shields.io/badge/Linktree-Connect-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+  <a href="https://github.com/HamzaDynasty">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 📊 GitHub Activity
+# ⭐ Support
 
-<!-- Add GitHub statistics here -->
+If you find my projects useful or interesting, consider giving them a ⭐.
+
+It helps support the work and encourages me to keep building and sharing.
 
 ---
 
@@ -353,4 +431,6 @@ Every project starts with a problem worth solving.
 
 Every problem is an opportunity to learn something new.
 
-**Build. Learn. Ship. Improve. 🚀**
+<p align="center">
+  <b>Build. Learn. Ship. Improve. 🚀</b>
+</p>
