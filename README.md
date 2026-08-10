@@ -428,9 +428,7 @@ I'd love to hear your ideas and feedback. 🚀
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
+
 
 # ✨ Final Note
 
@@ -440,4 +438,8 @@ Every problem is an opportunity to learn something new.
 
 <p align="center">
   <b>Build. Learn. Ship. Improve. 🚀</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
