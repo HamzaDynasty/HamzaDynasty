@@ -298,26 +298,7 @@ Monitor & Improve
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaDynasty&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaDynasty&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaDynasty&layout=compact&hide_border=true&langs_count=8" height="180" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HamzaDynasty&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
-</p>
-
----
 
 # 📖 Development Resources
 
