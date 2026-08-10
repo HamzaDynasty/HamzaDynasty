@@ -1,7 +1,7 @@
 # 👨‍💻 Hamza Masood
 
 <p align="center">
-  <img src="https://i.postimg.cc/j2zND4zJ/width-387.webp" width="100%" />
+  <img src="" width="100%" />
 </p>
 
 <p align="center">
